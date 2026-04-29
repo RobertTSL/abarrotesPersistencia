@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/Users/rober/Documents/NetBeansProjects/objetosServicio_00000236224/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/rober/Documents/NetBeansProjects/objetosServicio_00000236224/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'objetosServicio_00000236224 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'objetosServicio_00000236224 1.0-SNAPSHOT API'
+com.mycompany.objetosservicio_00000236224
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\src\main\java = 1776684603879
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\allclasses-index.html = 1776852504047
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\allpackages-index.html = 1776852504050
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\copy.svg = 1776852504087
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\element-list = 1776852503986
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\help-doc.html = 1776852504080
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\index-all.html = 1776852504071
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\index.html = 1776852504076
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\link.svg = 1776852504090
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\member-search-index.js = 1776852504056
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\module-search-index.js = 1776852504052
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\overview-tree.html = 1776852504032
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\package-search-index.js = 1776852504053
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\script.js = 1776852504085
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\search-page.js = 1776852504096
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\search.html = 1776852504074
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\search.js = 1776852504093
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\stylesheet.css = 1776852504084
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\tag-search-index.js = 1776852504057
+C:\Users\rober\Documents\NetBeansProjects\objetosServicio_00000236224\target\reports\apidocs\type-search-index.js = 1776852504054
