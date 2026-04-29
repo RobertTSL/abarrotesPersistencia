@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/Users/rober/Documents/NetBeansProjects/abarrotesObjetosDominio_00000236224/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/rober/Documents/NetBeansProjects/abarrotesObjetosDominio_00000236224/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'abarrotesObjetosDominio_00000236224 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'abarrotesObjetosDominio_00000236224 1.0-SNAPSHOT API'
+objetosNegocio
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\src\main\java = 1773727599446
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\allclasses-index.html = 1774269905985
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\allpackages-index.html = 1774269905988
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\copy.svg = 1774269906033
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\element-list = 1774269905903
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\help-doc.html = 1774269906027
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\index-all.html = 1774269906016
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\index.html = 1774269906022
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\link.svg = 1774269906036
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\member-search-index.js = 1774269905995
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\module-search-index.js = 1774269905991
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\overview-tree.html = 1774269905966
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\package-search-index.js = 1774269905992
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\script.js = 1774269906031
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\search-page.js = 1774269906042
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\search.html = 1774269906019
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\search.js = 1774269906039
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\stylesheet.css = 1774269906030
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\tag-search-index.js = 1774269905997
+C:\Users\rober\Documents\NetBeansProjects\abarrotesObjetosDominio_00000236224\target\reports\apidocs\type-search-index.js = 1774269905994
